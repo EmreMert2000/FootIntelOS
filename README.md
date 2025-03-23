@@ -1,8 +1,8 @@
 
 # FootIntel ⚽📊  
-Futbolu verilerle konuşanlara özel açık kaynak proje.
+Futbolu verilerle konuşanlara,istatistik meraklılarına çözüm getiren bir projedir.
 
-**FootIntel**, futbol istatistiklerini analiz etmek ve yorumlamak isteyen herkes için geliştirilen açık kaynaklı bir projedir.  
+**FootIntel**, futbol istatistiklerini analiz etmek ve yorumlamak isteyen herkes için geliştirilen bir projedir.  
 Amaç, **oyuncu performansları**, **taktiksel veriler** ve **istatistiksel içgörüler** ile futbolu daha iyi anlamak ve anlatmak.  
 Proje, hem **futbol meraklılarına** hem de **veri bilimiyle ilgilenen geliştiricilere** hitap eder.
 
