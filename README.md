@@ -18,7 +18,7 @@ Proje, hem **futbol meraklılarına** hem de **veri bilimiyle ilgilenen gelişti
 
 ## 📬 İletişim
 Projeyle ilgili fikir, öneri veya iş birliği için:
-📧 Emremert.developer@gmail.com
-📱 Yakında: Instagram / X (Twitter)
-05.04.2025
+📧 footintel7@gmail.com
+📱 İnstagram/Twitter: FutVeri
+
 
